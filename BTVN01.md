@@ -1,6 +1,5 @@
-# BÀI TẬP VỀ NHÀ - BUỔI 1
-
-**Trả lời:**  
+# Bài 1:
+ 
 Python là ngôn ngữ thông dịch (Interpreted language). Chính xác hơn, quy trình thực thi của Python là sự kết hợp giữa cả **biên dịch** và **thông dịch**.
 
 **Tại sao?**
@@ -10,7 +9,7 @@ Python là ngôn ngữ thông dịch (Interpreted language). Chính xác hơn, q
 
 ---
 
-## Bài 2: Liệt kê các kiến thức cơ bản trong Python
+## Bài 2:
 
 ### 1. Các kiểu dữ liệu cơ bản trong Python
 
